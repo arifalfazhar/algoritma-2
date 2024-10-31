@@ -9,5 +9,3 @@ baris
 */
 
 echo "<br><br><br><strong>By arif alfazhar</strong>";
-
-?>
